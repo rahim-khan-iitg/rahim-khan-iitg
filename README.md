@@ -6,11 +6,12 @@
 - 🌱 I'm currently learning Natural Language Processing and Deep Learning.
 - 💼 I'm open to new opportunities and collaborations.
 - 💬 You can ask me about Machine Learning Alorithms ,Deep Learning ,NLP ,Cloud Computing ,Web Development and also Mathematics😊.
-- 😄 Pronouns: [mention your preferred pronouns].
+- 😄 Pronouns: He/Him.
 ## Skills
 
-- Programming Languages: [list the programming languages you're proficient in].
-- Technologies: [list the technologies or frameworks you have experience with].
+- Programming Languages:C, C++, Python, Javascript,HTML,CSS.
+- Technologies:
+- - Web.
 - Databases: [mention the databases you're familiar with].
 - Tools: [mention any tools or software you use for development or productivity].
 - Version Control: [mention your experience with version control systems like Git].
@@ -22,28 +23,10 @@
 - [Project 3]: [briefly describe the project and its key features].
 - ...
 
-## Open Source Contributions
-
-- [Contribution 1]: [mention your contributions to open source projects].
-- [Contribution 2]: [mention your contributions to open source projects].
-- [Contribution 3]: [mention your contributions to open source projects].
-- ...
-
-## Blog Articles
-
-- [Article 1]: [provide a link to an article you've written].
-- [Article 2]: [provide a link to an article you've written].
-- [Article 3]: [provide a link to an article you've written].
-- ...
-
 ## Education
 
 - [Degree]: [mention your highest degree and the institution where you earned it].
 - [Certifications]: [list any relevant certifications you have].
-
-## Fun Fact
-
-- [Share an interesting or unique fact about yourself].
 
 ## Connect with Me
 
