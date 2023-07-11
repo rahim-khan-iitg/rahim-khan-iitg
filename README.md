@@ -51,7 +51,8 @@ App link:- <a href="https://rahim-khan.azurewebsites.net/diabetes"> click here</
     Repo link:- <a href="https://github.com/rahim-khan-iitg/Diamond_Price_Prediction1.git"> click here</a>
 11. ### My Website:-
     it is my personal website made using django and Python. where all these projects are up and running. it is hosted on Azure cloud . MongoDB is used as backend Database. and for Static content Azure blob storage is used.\
-    it is also equipped with login and logout facility. You can sign up using email otp. it also have a user dashboard . you update your name , mobile no, profile photo etc. 
+    it is also equipped with login and logout facility. You can sign up using email otp. it also have a user dashboard . you can update your name , mobile no, profile photo etc. \
+    website link :- <a href="https://rahim-khan.azurewebsites.net/"> click here</a>
 ## Education
 
 - [Degree]: [mention your highest degree and the institution where you earned it].
