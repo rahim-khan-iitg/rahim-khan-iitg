@@ -41,6 +41,9 @@ App link:- <a href="https://rahim-khan.azurewebsites.net/diabetes"> click here</
 7. <b>YouTube comment Scrapper</b>:- It is the comment scrapper app which uses youtube data api v3 for retrieving the comments.\
    Repo link:- <a href="https://github.com/rahim-khan-iitg/Youtube_scrapping.git"> click here</a>\
    App link:- <a href="https://rahim-khan.azurewebsites.net/youtube_scrapper/"> click here</a>
+8. <b>Flipkart comment scrapper</b>:- it is the comment scrapper app. it scrapps the comments from flipkart and shows on the webpage.\
+   Repo link:- <a href="https://github.com/rahim-khan-iitg/flipkart_comment_scrapper.git"> click here</a>\
+   App link:- <a href="https://rahim-khan.azurewebsites.net/flipkart_scrapper/"> click here</a>
 ## Education
 
 - [Degree]: [mention your highest degree and the institution where you earned it].
