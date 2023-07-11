@@ -1,14 +1,17 @@
-# Welcome to [Your Name]'s GitHub Profile! 👋
+# Welcome to Rahim Khan's GitHub Profile! 👋
 
 ## About Me
 
-- 🔭 I'm currently working on [mention your current projects or areas of focus].
-- 🌱 I'm currently learning [mention the technologies or skills you're currently learning].
+- 🔭 I'm currently working on an Natural Language Processing Project which is an emotion analyser.
+- 🌱 I'm currently learning Natural Language Processing and Deep Learning.
 - 💼 I'm open to new opportunities and collaborations.
-- 💬 Ask me about [mention the topics you're knowledgeable about or interested in].
+- 💬 You can ask me about Machine Learning Alorithms ,Deep Learning ,NLP ,Cloud Computing ,Web Development and also Mathematics😊.
 - 😄 Pronouns: [mention your preferred pronouns].
-- 📫 How to reach me: [provide your contact information or preferred methods of communication].
-
+- 📫 How to reach me:
+- ✉️ Email:- rahimkhan7627047457@gmail.com, k.rahim@iitg.ac.in
+- 🔗 LinkedIn:- www.linkedin.com/in/rahim-khan-iitg
+- 🔗 Kaggle :- https://www.kaggle.com/rahimkhan76
+- 🔗 Leetcode :- https://leetcode.com/rahim_khan_iitg/
 ## Skills
 
 - Programming Languages: [list the programming languages you're proficient in].
