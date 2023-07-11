@@ -9,14 +9,14 @@
 - 😄 Pronouns: He/Him.
 ## Skills
 
-- Programming Languages:C, C++, Python, Javascript,HTML,CSS.
+- Programming Languages: C, C++, Python, Javascript,HTML,CSS.
 - Technologies & Technology:
 - - Web Development: Django,Flask,Streamlit.
   - Machine Learning:- Scikit-Learn.
   - Deep Learning:- Tensorflow,Pytorch.
-  - NLP:-Gensim,Spacy,NLTK.
-- Databases:SQL, MongoDB,Azure Blob Storage.
-- Version Control:Git and Github.
+  - NLP:- Gensim,Spacy,NLTK.
+- Databases:- SQL, MongoDB,Azure Blob Storage.
+- Version Control:- Git and Github.
 
 ## Projects
 
