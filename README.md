@@ -10,11 +10,13 @@
 ## Skills
 
 - Programming Languages:C, C++, Python, Javascript,HTML,CSS.
-- Technologies:
-- - Web.
-- Databases: [mention the databases you're familiar with].
-- Tools: [mention any tools or software you use for development or productivity].
-- Version Control: [mention your experience with version control systems like Git].
+- Technologies & Technology:
+- - Web Development: Django,Flask,Streamlit.
+  - Machine Learning:- Scikit-Learn.
+  - Deep Learning:- Tensorflow,Pytorch.
+  - NLP:-Gensim,Spacy,NLTK.
+- Databases:SQL, MongoDB,Azure Blob Storage.
+- Version Control:Git and Github.
 
 ## Projects
 
