@@ -55,8 +55,8 @@ App link:- <a href="https://rahim-khan.azurewebsites.net/diabetes"> click here</
     website link :- <a href="https://rahim-khan.azurewebsites.net/"> click here</a>
 ## Education
 
-- [Degree]: [mention your highest degree and the institution where you earned it].
-- [Certifications]: [list any relevant certifications you have].
+- Master of Science in Mathematics and Computing (IIT Guwahati).
+- Currently following Data Science Masters course impact batch by PWSkills.
 
 ## Connect with Me
 
