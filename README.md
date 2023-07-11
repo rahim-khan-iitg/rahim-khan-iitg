@@ -38,6 +38,9 @@ App Link :- <a href="https://rahim-khan.azurewebsites.net/shortener/">click here
 6. <b> Diabetes Prediction</b>:- it is the simple classifier which uses the current data provided by the user to predict the person may have diabetes or not. it is based on the logistic regression.\
 Repo link:- <a href="https://github.com/rahim-khan-iitg/diabetes_prediction.git"> click here</a>\
 App link:- <a href="https://rahim-khan.azurewebsites.net/diabetes"> click here</a>
+7. <b>YouTube comment Scrapper</b>:- It is the comment scrapper app which uses youtube data api v3 for retrieving the comments.\
+   Repo link:- <a href="https://github.com/rahim-khan-iitg/Youtube_scrapping.git"> click here</a>\
+   App link:- <a href="https://rahim-khan.azurewebsites.net/youtube_scrapper/"> click here</a>
 ## Education
 
 - [Degree]: [mention your highest degree and the institution where you earned it].
