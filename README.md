@@ -10,7 +10,7 @@
 ## Skills
 
 - Programming Languages: C, C++, Python, Javascript,HTML,CSS.
-- Technologies & Technology:
+- Tools & Technologies:
 - - Web Development: Django,Flask,Streamlit.
   - Machine Learning:- Scikit-Learn.
   - Deep Learning:- Tensorflow,Pytorch.
