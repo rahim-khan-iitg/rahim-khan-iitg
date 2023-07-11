@@ -32,6 +32,9 @@ App Link :- <a href="https://rahim-khan.azurewebsites.net/shortener/">click here
 4. <b> IIT Guwahati Resume Builder</b>:- it the resume builder app for iit guwahati students . it uses JavaScript, python and django and stores the personal info using javascript local storage\
    Repo link:- <a href="https://github.com/rahim-khan-iitg/resume_builder.git">click here</a>\
    App link:- <a href="https://rahim-khan.azurewebsites.net/resume_builder/">click here</a>
+5. <b>Spam Email Classifier</b>:- it is the email classifier. it classifies the email as spam or not spam upto 93% accuracy. it uses the logistic regression algorithm.\
+   Repo link:- <a href="#"> click here</a>\
+   App link:- <a href="https://rahim-khan.azurewebsites.net/email">click here</a>
 ## Education
 
 - [Degree]: [mention your highest degree and the institution where you earned it].
