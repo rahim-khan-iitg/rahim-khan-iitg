@@ -21,9 +21,9 @@
 ## Projects
 
 1. <b>AI Image Classifier</b> :- It is the image classifier which classifies image as Real or Fake . It is based on VGG16 and trained on the imagenet dataset. It was the part of Even Semester Project by Coding Club IIT Guwahati.\
-Repo Link:- <a href="https://github.com/rahim-khan-iitg/streamlit.git"> AI Image Classifier </a>
+Repo Link:- <a href="https://github.com/rahim-khan-iitg/streamlit.git"> AI Image Classifier </a>\
 App link:- <a href="https://rahim-khan-iitg.streamlit.app">Streamlit app</a>
-2. <font color="blue">Link Shortener</font> :- It is the link shortener app. which is made using mongoDB , django and python
+2. <font color='blue'>Link Shortener</font> :- It is the link shortener app. which is made using mongoDB , django and python
 3. <b> Neural Style Tra
 
 ## Education
