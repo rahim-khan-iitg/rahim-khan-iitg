@@ -20,10 +20,7 @@
 
 ## Projects
 
-- [Project 1]: [briefly describe the project and its key features].
-- [Project 2]: [briefly describe the project and its key features].
-- [Project 3]: [briefly describe the project and its key features].
-- ...
+1. ### AI Image Classifier :- It is the image classifier which classifies image as Real or Fake . It is based on VGG16 and trained on the imagenet dataset\
 
 ## Education
 
