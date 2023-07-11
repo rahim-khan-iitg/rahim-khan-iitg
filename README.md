@@ -52,10 +52,9 @@
 
 ## Connect with Me
 
-- GitHub: [provide a link to your GitHub profile].
-- LinkedIn: [provide a link to your LinkedIn profile].
-- Twitter: [provide a link to your Twitter profile].
-- Website: [provide a link to your personal website or blog].
-
+- ✉️ Email:- rahimkhan7627047457@gmail.com, k.rahim@iitg.ac.in
+- 🔗 LinkedIn:-<a href="www.linkedin.com/in/rahim-khan-iitg"> Rahim Khan's LinkedIn Profile</a>
+- 🔗 Kaggle :- https://www.kaggle.com/rahimkhan76
+- 🔗 Leetcode :- https://leetcode.com/rahim_khan_iitg/
 Feel free to explore my repositories and reach out to me. I'm always excited to connect with fellow developers and collaborate on interesting projects!
 
