@@ -7,11 +7,6 @@
 - 💼 I'm open to new opportunities and collaborations.
 - 💬 You can ask me about Machine Learning Alorithms ,Deep Learning ,NLP ,Cloud Computing ,Web Development and also Mathematics😊.
 - 😄 Pronouns: [mention your preferred pronouns].
-- 📫 How to reach me:
-- ✉️ Email:- rahimkhan7627047457@gmail.com, k.rahim@iitg.ac.in
-- 🔗 LinkedIn:- www.linkedin.com/in/rahim-khan-iitg
-- 🔗 Kaggle :- https://www.kaggle.com/rahimkhan76
-- 🔗 Leetcode :- https://leetcode.com/rahim_khan_iitg/
 ## Skills
 
 - Programming Languages: [list the programming languages you're proficient in].
@@ -54,7 +49,7 @@
 
 - ✉️ Email:- rahimkhan7627047457@gmail.com, k.rahim@iitg.ac.in
 - 🔗 LinkedIn:-<a href="www.linkedin.com/in/rahim-khan-iitg"> Rahim Khan's LinkedIn Profile</a>
-- 🔗 Kaggle :- https://www.kaggle.com/rahimkhan76
-- 🔗 Leetcode :- https://leetcode.com/rahim_khan_iitg/
+- 🔗 Kaggle :- <a href="https://www.kaggle.com/rahimkhan76"> Rahim Khan's Kaggle Profile</a>
+- 🔗 Leetcode :-<a href="https://leetcode.com/rahim_khan_iitg/"> Rahim Khan's Leetcode Profile</a>
 Feel free to explore my repositories and reach out to me. I'm always excited to connect with fellow developers and collaborate on interesting projects!
 
