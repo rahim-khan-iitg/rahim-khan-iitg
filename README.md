@@ -35,6 +35,9 @@ App Link :- <a href="https://rahim-khan.azurewebsites.net/shortener/">click here
 5. <b>Spam Email Classifier</b>:- it is the email classifier. it classifies the email as spam or not spam upto 93% accuracy. it uses the logistic regression algorithm.\
    Repo link:- <a href="#"> click here</a>\
    App link:- <a href="https://rahim-khan.azurewebsites.net/email">click here</a>
+6.<b> Diabetes Prediction</b>:- it is the simple classifier which uses the current data provided by the user to predict the person may have diabetes or not. it is based on the logistic regression.\
+Repo link:- <a href="https://github.com/rahim-khan-iitg/diabetes_prediction.git"> click here</a>\
+App link:- <a href="https://rahim-khan.azurewebsites.net/diabetes"> click here</a>
 ## Education
 
 - [Degree]: [mention your highest degree and the institution where you earned it].
