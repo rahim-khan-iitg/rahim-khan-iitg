@@ -20,7 +20,7 @@
 
 ## Projects
 
-1. ### AI Image Classifier :- It is the image classifier which classifies image as Real or Fake . It is based on VGG16 and trained on the imagenet dataset\
+1. <b>AI Image Classifier</b> :- It is the image classifier which classifies image as Real or Fake . It is based on VGG16 and trained on the imagenet dataset\
 
 ## Education
 
