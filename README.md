@@ -21,12 +21,14 @@
 ## Projects
 
 1. <b>AI Image Classifier</b> :- It is the image classifier which classifies image as Real or Fake . It is based on VGG16 and trained on the imagenet dataset. It was the part of Even Semester Project by Coding Club IIT Guwahati.\
-Repo Link:- <a href="https://github.com/rahim-khan-iitg/streamlit.git"> AI Image Classifier </a>\
-App link:- <a href="https://rahim-khan-iitg.streamlit.app">Streamlit app</a>
-2. <b>Link Shortener</b> :- It is the link shortener app. which is made using mongoDB , django and python
+Repo Link:- <a href="https://github.com/rahim-khan-iitg/streamlit.git">click here </a>\
+App link:- <a href="https://rahim-khan-iitg.streamlit.app">click here</a>
+2. <b>Link Shortener</b> :- It is the link shortener app. which is made using mongoDB , django and python\
   Repo Link:- <a href="https://github.com/rahim-khan-iitg/link_shortener.git"> Link Shortener Repo</a>\
-App Link :- <a href="https://rahim-khan.azurewebsites.net/shortener/"> Link</a>
-4. <b> Neural Style Transfer</b> 
+App Link :- <a href="https://rahim-khan.azurewebsites.net/shortener/">click here</a>
+4. <b> Neural Style Transfer</b>:- It is the app for creating the artwork using existing images. it take an content image and a style image and applies the style of style image to the content image and generates a new image.\
+   Repo link:- <a href="https://github.com/rahim-khan-iitg/Neural_style_transfer.git">click here</a>\
+   App Link:- <a href="https://neural-style.streamlit.app/">click here</a>
 
 ## Education
 
