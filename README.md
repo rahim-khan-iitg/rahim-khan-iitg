@@ -47,7 +47,7 @@ App link:- <a href="https://rahim-khan.azurewebsites.net/diabetes"> click here</
 9. <b> Google Image Screpper</b>:- it is the image scrapper app which scrapps image from google search and shows on webpage. it uses beautiful soup4 , django and Python \
     Repo link:- <a href="https://github.com/rahim-khan-iitg/image_scrapping.git"> click here</a>\
    App link:- <a href="https://rahim-khan.azurewebsites.net/image_scrapper/"> click here </a>
-10. <b> Diamond Price Prediction</b>:- it is the diamond price prediction app. it predicts the price of the diamond based on the given data. it uses KNN Regresson to predict the price.\
+10. <b> Diamond Price Prediction</b>:- it is the diamond price prediction app. it predicts the price of the diamond based on the given data. it uses Decision Tree Regression to predict the price.\
     Repo link:- <a href="https://github.com/rahim-khan-iitg/Diamond_Price_Prediction1.git"> click here</a>
 11. ### My Website:-
     it is my personal website made using django and Python. where all these projects are up and running. it is hosted on Azure cloud . MongoDB is used as backend Database. and for Static content Azure blob storage is used.\
