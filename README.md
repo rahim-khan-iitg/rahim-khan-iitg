@@ -35,6 +35,6 @@
 - ✉️ Email:- rahimkhan7627047457@gmail.com, k.rahim@iitg.ac.in
 - 🔗 LinkedIn:-<a href="www.linkedin.com/in/rahim-khan-iitg"> Rahim Khan's LinkedIn Profile</a>
 - 🔗 Kaggle :- <a href="https://www.kaggle.com/rahimkhan76"> Rahim Khan's Kaggle Profile</a>
-- 🔗 Leetcode :-<a href="https://leetcode.com/rahim_khan_iitg/"> Rahim Khan's Leetcode Profile</a>
+- 🔗 Leetcode :-<a href="https://leetcode.com/rahim_khan_iitg/"> Rahim Khan's Leetcode Profile</a>\
 Feel free to explore my repositories and reach out to me. I'm always excited to connect with fellow developers and collaborate on interesting projects!
 
