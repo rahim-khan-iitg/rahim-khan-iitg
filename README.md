@@ -49,7 +49,9 @@ App link:- <a href="https://rahim-khan.azurewebsites.net/diabetes"> click here</
    App link:- <a href="https://rahim-khan.azurewebsites.net/image_scrapper/"> click here </a>
 10. <b> Diamond Price Prediction</b>:- it is the diamond price prediction app. it predicts the price of the diamond based on the given data. it uses Decision Tree Regression to predict the price.\
     Repo link:- <a href="https://github.com/rahim-khan-iitg/Diamond_Price_Prediction1.git"> click here</a>
-11. ### My Website:-
+11. <b> Wafer Fault Detection</b> :- The Wafer Fault Detection App is a web application built using Django and Python's scikit-learn library. It employs machine learning algorithms to analyze and classify wafer data, enabling the quick identification of faulty wafers in the manufacturing process. With user authentication, data preprocessing, fault detection, and intuitive result visualization, this app provides an efficient and user-friendly solution for wafer quality control.
+  Repo link:-<a href="https://github.com/rahim-khan-iitg/wafer_fault_detection.git"> click here</a>
+13. ### My Website:-
     it is my personal website made using django and Python. where all these projects are up and running. it is hosted on Azure cloud . MongoDB is used as backend Database. and for Static content Azure blob storage is used.\
     it is also equipped with login and logout facility. You can sign up using email otp. it also have a user dashboard . you can update your name , mobile no, profile photo etc. \
     website link :- <a href="https://rahim-khan.azurewebsites.net/"> click here</a>
