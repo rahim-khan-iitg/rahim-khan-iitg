@@ -52,8 +52,8 @@ App link:- <a href="https://rahim-khan.azurewebsites.net/diabetes"> click here</
 11. <b> Wafer Fault Detection</b> :- The Wafer Fault Detection App is a web application built using Django and Python's scikit-learn library. It employs machine learning algorithms to analyze and classify wafer data, enabling the quick identification of faulty wafers in the manufacturing process.\
   Repo link:-<a href="https://github.com/rahim-khan-iitg/wafer_fault_detection.git"> click here</a>
 12. <b>Stock Forecast</b>:- The Stock Forecasting App is a web-based application built using Django and powered by the ARIMA (AutoRegressive Integrated Moving Average) model. This app allows users to select the company name and forecasting option then it fetches the data from alpha ventage api shows the chart of last 30 days actual values and predicted values and also shows the prediction for the next day based on the ARIMA model's predictions. Chart is made using chart.js.\
-    Repo link:- <a href="https://github.com/rahim-khan-iitg/stock_forecasting.git"> click here</a>
-    App link:- <a href="https://rahim-khan.azurewebsites.net/predict/"> click here </a>
+    Repo link:- <a href="https://github.com/rahim-khan-iitg/stock_forecasting.git"> click here</a>\
+    App link:- <a href="https://rahim-khan.azurewebsites.net/predict"> click here </a>
 13. ### My Website:-
     it is my personal website made using django and Python. where all these projects are up and running. it is hosted on Azure cloud . MongoDB is used as backend Database. and for Static content Azure blob storage is used.\
     it is also equipped with login and logout facility. You can sign up using email otp. it also have a user dashboard . you can update your name , mobile no, profile photo etc. \
