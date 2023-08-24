@@ -14,7 +14,6 @@
 - - Web Development: Django,Flask,Streamlit.
   - Machine Learning:- Scikit-Learn.
   - Deep Learning:- Tensorflow,Pytorch.
-  - NLP:- Gensim,Spacy,NLTK.
 - Databases:- SQL, MongoDB,Azure Blob Storage.
 - Version Control:- Git and Github.
 
